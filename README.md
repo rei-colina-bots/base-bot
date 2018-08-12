@@ -1,2 +1,2 @@
-# rosa
-A Facebook Messenger News Feed and Social Media Assistant.
+# base-bot
+A base template for a Facebook Messenger Bot.
